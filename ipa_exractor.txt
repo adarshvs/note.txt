@@ -1,0 +1,1 @@
+I use ipainstaller -l to list all the apps installed on my jailbroken device and grab the bundle id of that app you wish to extract. Extract it using ipainstaller -b <app_bundle>.
